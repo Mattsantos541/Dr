@@ -1,0 +1,13 @@
+Content
+
+This data only includes jobs that were deemed as being related to doctors from March 2019 to October 2019. Fields relating to a json file derive from a json file embedded in the HTML code. These fields are typically easier to work with as they contain less user inputted data.
+
+Acknowledgements
+
+The NHS.
+
+Inspiration
+
+What variables constitute to salary?
+Can salary be predicted?
+What important bits of information can be extracted from the job descriptions?
